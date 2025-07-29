@@ -24,9 +24,11 @@ Here are the included snippets:
 
 > More coming soon...
 
+## Right now extension is in development. INSHALLAH publish officaly next week.
+
 ## 📦 Installation
 
-Search for `rust-snippets` in the VS Code Extensions tab and click install.
+Not available online But INSHALLAH soon available.
 
 ## 🛠️ How to Use
 
@@ -40,9 +42,7 @@ Just type the prefix (like `if`, `fn`, `match`) and select the snippet from the 
 
 ## 🛤️ Future Plans
 
-- Add `impl` snippets
-- Add `Result`/`error handling` blocks
-- Add comments + learning tips
+- INSHALLAH in future i made this more good and functional.
 
 ## 📢 Feedback
 
