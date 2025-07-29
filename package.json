@@ -1,0 +1,21 @@
+{
+  "name": "Rust-snippets",
+  "displayName": "Rust-Snippets",
+  "Publisher": "Anonymous Ghost",
+  "description": "Rust Snippets extension guide",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "rust",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
