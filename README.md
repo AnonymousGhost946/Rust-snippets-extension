@@ -26,6 +26,7 @@ Here are the included snippets:
 
 ## Right now extension is in development. INSHALLAH publish officaly next week.
 
+
 ## 📦 Installation
 
 Not available online But INSHALLAH soon available.
@@ -52,10 +53,10 @@ If you have ideas or feedback, feel free to open an issue or suggest snippets to
 
 **Enjoy your Rust journey! 🦀🚀**
 
-
+<!-- 
 ## For more information
 
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+**Enjoy!** -->
