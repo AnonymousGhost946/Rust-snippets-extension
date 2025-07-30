@@ -1,7 +1,7 @@
 {
   "name": "rust-snippets",
   "displayName": "Rust-Snippets",
-  "Publisher": "Anonymous Ghost",
+  "publisher": "AnonymousGhost",
   "description": "Rust Snippets extension guide",
   "version": "0.0.1",
   "engines": {
