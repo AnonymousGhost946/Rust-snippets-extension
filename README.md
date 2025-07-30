@@ -9,18 +9,24 @@ Here are the included snippets:
 | Prefix     | Description                            |
 |------------|----------------------------------------|
 | `rbase`    | Main function with `println!`          |
-| `mv`       | Declare a mutable variable              |
+| `read`     | Creates a variable with input          |
+| `const`    | Creates const variable with datatype   |
+| `vector`   | Creates vector with value              |
+| `mv`       | Declare a mutable variable             |
 | `prnt`     | Print using `println!`                 |
 | `fn`       | Function template                      |
 | `if`       | Basic if-else statement                |
 | `elif`     | if-else if-else ladder                 |
 | `for`      | For loop                               |
 | `while`    | While loop                             |
-| `loop`     | Infinite loop with break condition     |
+| `infinite` | Infinite loop with break condition     |
 | `match`    | Match pattern matching block           |
 | `enum`     | Enum type declaration                  |
-| `tup`      | Tuple declaration                      |
+| `struct`   | Struct definition syntax               |
+| `tuple`      | Tuple declaration                      |
 | `option`   | Option enum example with match         |
+| `shadow`   | Creates variable shadow                |
+| `array `   | Creates basic array                    |
 
 > More coming soon...
 
