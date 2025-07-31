@@ -1,3 +1,5 @@
+![Rust Snippets Logo](./rust-logo.png)
+
 # 🦀 Rust Beginner Snippets
 
 This extension provides beginner-friendly Rust code snippets to help you code faster and learn Rust more easily.
@@ -30,12 +32,32 @@ Here are the included snippets:
 
 > More coming soon...
 
-## Right now extension is in development. INSHALLAH publish officaly next week.
 
 
-## 📦 Installation
+📦 Installation
+✅ Method 1: Quick Install
 
-Not available online But INSHALLAH soon available.
+    Open VS Code
+
+    Press Ctrl + P (or Cmd + P on Mac)
+
+    Paste the following command and hit Enter:
+
+ext install AnonymousGhost.rust-snippets-extension
+
+This will install the extension directly.
+    
+🧭 Method 2: Search in Extensions
+
+    Open the Extensions panel in VS Code
+
+    Search for: rust-snippets-extension
+
+    Look for the publisher name: Anonymous Ghost
+
+    Click Install
+
+    If you can’t find it via search, use Method 1.
 
 ## 🛠️ How to Use
 
@@ -43,13 +65,13 @@ Just type the prefix (like `if`, `fn`, `match`) and select the snippet from the 
 
 ## 🧠 Who This Is For
 
-- Rust beginners
-- Programmers switching from Python, C, or JS
-- Learners who want fast templates while learning syntax
+- For Rust User
+
+
 
 ## 🛤️ Future Plans
 
-- INSHALLAH in future i made this more good and functional.
+- INSHALLAH in future I made this more good and functional.
 
 ## 📢 Feedback
 
