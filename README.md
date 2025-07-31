@@ -43,9 +43,9 @@ Here are the included snippets:
 
     Paste the following command and hit Enter:
 
-ext install AnonymousGhost.rust-snippets-extension
+    ext install AnonymousGhost.rust-snippets-extension
 
-This will install the extension directly.
+    This will install the extension directly.
     
 🧭 Method 2: Search in Extensions
 
